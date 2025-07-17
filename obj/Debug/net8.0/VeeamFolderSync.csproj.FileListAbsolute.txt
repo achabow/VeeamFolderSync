@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/VeeamFolderSync/bin/Debug/net8.0/VeeamFolderSync
+/workspaces/codespaces-blank/VeeamFolderSync/bin/Debug/net8.0/VeeamFolderSync.deps.json
+/workspaces/codespaces-blank/VeeamFolderSync/bin/Debug/net8.0/VeeamFolderSync.runtimeconfig.json
+/workspaces/codespaces-blank/VeeamFolderSync/bin/Debug/net8.0/VeeamFolderSync.dll
+/workspaces/codespaces-blank/VeeamFolderSync/bin/Debug/net8.0/VeeamFolderSync.pdb
+/workspaces/codespaces-blank/VeeamFolderSync/obj/Debug/net8.0/VeeamFolderSync.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/VeeamFolderSync/obj/Debug/net8.0/VeeamFolderSync.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/VeeamFolderSync/obj/Debug/net8.0/VeeamFolderSync.AssemblyInfo.cs
+/workspaces/codespaces-blank/VeeamFolderSync/obj/Debug/net8.0/VeeamFolderSync.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/VeeamFolderSync/obj/Debug/net8.0/VeeamFolderSync.dll
+/workspaces/codespaces-blank/VeeamFolderSync/obj/Debug/net8.0/refint/VeeamFolderSync.dll
+/workspaces/codespaces-blank/VeeamFolderSync/obj/Debug/net8.0/VeeamFolderSync.pdb
+/workspaces/codespaces-blank/VeeamFolderSync/obj/Debug/net8.0/VeeamFolderSync.genruntimeconfig.cache
+/workspaces/codespaces-blank/VeeamFolderSync/obj/Debug/net8.0/ref/VeeamFolderSync.dll
